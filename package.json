@@ -1,0 +1,12 @@
+{
+	"name": "peach",
+	"version": "0.0.1",
+	"description": "Peach",
+	"main": "main.js",
+	"dependencies": {
+		"express": "latest",
+		"request": "latest",
+		"cheerio": "latest"
+	}
+}
+
